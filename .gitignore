@@ -34,5 +34,8 @@ Assets/*
 !Assets/Scripts/
 !Assets/Scripts/**
 
-# too big i will just keep the tesnorboard recordings
-results/adverserial_agentteams/mycongig/ 
+# Ignore everything inside myconfig
+results/adverserial_agentteams/myconfig/*
+
+# Keep TensorBoard logs
+!results/adverserial_agentteams/myconfig/events.out.tfevents.*
