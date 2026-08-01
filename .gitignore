@@ -1,0 +1,38 @@
+# ============================================
+# Unity Auto-Generated & Temporary Folders
+# ============================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Pp]ackages/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+
+# ============================================
+# VS Code & IDE Files
+# ============================================
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+
+# ============================================
+# Ignore ALL Assets EXCEPT Scripts
+# ============================================
+
+Assets/*
+
+
+!Assets/Scripts/
+!Assets/Scripts/**
+
+# too big i will just keep the tesnorboard recordings
+results/adverserial_agentteams/mycongig/ 

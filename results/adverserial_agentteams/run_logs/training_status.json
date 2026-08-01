@@ -1,0 +1,66 @@
+{
+    "myconfig": {
+        "checkpoints": [
+            {
+                "steps": 28499968,
+                "file_path": "results\\adverserial_agentteams\\myconfig\\myconfig-28499968.onnx",
+                "reward": 2.749231945723295,
+                "creation_time": 1768863960.1697235,
+                "auxillary_file_paths": [
+                    "results\\adverserial_agentteams\\myconfig\\myconfig-28499968.pt"
+                ]
+            },
+            {
+                "steps": 28999784,
+                "file_path": "results\\adverserial_agentteams\\myconfig\\myconfig-28999784.onnx",
+                "reward": 1.6220535970464045,
+                "creation_time": 1768864652.9285257,
+                "auxillary_file_paths": [
+                    "results\\adverserial_agentteams\\myconfig\\myconfig-28999784.pt"
+                ]
+            },
+            {
+                "steps": 29499769,
+                "file_path": "results\\adverserial_agentteams\\myconfig\\myconfig-29499769.onnx",
+                "reward": 1.7773223504171534,
+                "creation_time": 1768865353.3483553,
+                "auxillary_file_paths": [
+                    "results\\adverserial_agentteams\\myconfig\\myconfig-29499769.pt"
+                ]
+            },
+            {
+                "steps": 29999866,
+                "file_path": "results\\adverserial_agentteams\\myconfig\\myconfig-29999866.onnx",
+                "reward": 3.3825696845849356,
+                "creation_time": 1768866055.228998,
+                "auxillary_file_paths": [
+                    "results\\adverserial_agentteams\\myconfig\\myconfig-29999866.pt"
+                ]
+            },
+            {
+                "steps": 30000006,
+                "file_path": "results\\adverserial_agentteams\\myconfig\\myconfig-30000006.onnx",
+                "reward": 3.524674425359632,
+                "creation_time": 1768866055.35747,
+                "auxillary_file_paths": [
+                    "results\\adverserial_agentteams\\myconfig\\myconfig-30000006.pt"
+                ]
+            }
+        ],
+        "elo": 1614.150508748255,
+        "final_checkpoint": {
+            "steps": 30000006,
+            "file_path": "results\\adverserial_agentteams\\myconfig.onnx",
+            "reward": 3.524674425359632,
+            "creation_time": 1768866055.35747,
+            "auxillary_file_paths": [
+                "results\\adverserial_agentteams\\myconfig\\myconfig-30000006.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu118"
+    }
+}
