@@ -257,7 +257,9 @@ TensorBoard can be used to visualize the training process and monitor how the ag
 - to open tensorboard
 ```
 cd Football-AI-Agent-with-Unity-ML-Agents
+
 <!-- then run tensorboard -->
+
 tensorboard --logdir results
 
 ```
