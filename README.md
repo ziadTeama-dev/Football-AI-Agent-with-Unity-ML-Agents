@@ -299,7 +299,9 @@ tensorboard --logdir results
 # 📥 Download Project
 
 Download the complete Unity project:
-<!-- i will uploaded when internet connection become stable incase who didn't find the project -->
+
+- **i will uploaded when internet connection become stable incase who didn't find the project**
+
 **[⬇️ Download the Project](YOUR_PROJECT_DOWNLOAD_LINK_HERE)**
 
 
