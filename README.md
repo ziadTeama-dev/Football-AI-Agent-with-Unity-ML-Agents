@@ -27,6 +27,20 @@ The agent can control:
 
 ---
 
+# 🎞️ GIF Demo
+
+Add a GIF showing the trained agent playing football.
+
+![Gameplay GIF](Recordings/Movie_001.gif)
+
+**Suggested GIF content:**
+
+- Agent approaching the ball
+- Agent interacting with the ball
+- Agent using dash
+- Agent scoring a goal
+
+---
 ## 🧠 Main Problems During Training & Solutions
 
 ### 1. Training Was Too Slow
@@ -232,20 +246,6 @@ enemyAgent.AddReward(-5f);
 ---
 
 
-# 🎞️ GIF Demo
-
-Add a GIF showing the trained agent playing football.
-
-![Gameplay GIF](Recordings/Movie_001.gif)
-
-**Suggested GIF content:**
-
-- Agent approaching the ball
-- Agent interacting with the ball
-- Agent using dash
-- Agent scoring a goal
-
----
 
 # 📊 TensorBoard
 
