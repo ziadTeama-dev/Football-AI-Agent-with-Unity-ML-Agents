@@ -236,8 +236,6 @@ enemyAgent.AddReward(-5f);
 
 ---
 
-
-
 # 📊 TensorBoard
 
 TensorBoard can be used to visualize the training process and monitor how the agent improves over time.
